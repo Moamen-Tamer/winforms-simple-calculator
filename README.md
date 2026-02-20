@@ -1,7 +1,7 @@
 # Simple Calculator (WinForms)
 
 A simple calculator made with **C# and Windows Forms**.  
-It is a full rewrite of an [earlier version built with Python and Tkinter]([https://github.com/Moamen-Tamer/tkinter-simple-calculator]) — same colors, same layout, same features, different language.
+It is a full rewrite of an **[(earlier version built with Python and Tkinter)]([https://github.com/Moamen-Tamer/tkinter-simple-calculator])** — same colors, same layout, same features, different language.
 
 ---
 
@@ -42,4 +42,4 @@ It is a full rewrite of an [earlier version built with Python and Tkinter]([http
 ## Previously Built with Python & Tkinter
 
 This project was originally built using **Python and Tkinter**.  
-Check out the original version here 👉 **[Simple Calculator (Tkinter)]([https://github.com/YourUsername/YourTkinterRepoName](https://github.com/Moamen-Tamer/tkinter-simple-calculator))**
+Check out the original version here: **[Simple Calculator (Tkinter)]([https://github.com/YourUsername/YourTkinterRepoName](https://github.com/Moamen-Tamer/tkinter-simple-calculator))**
