@@ -39,7 +39,7 @@ It is a full rewrite of an **[earlier version built with Python and Tkinter](htt
 
 ---
 
-## 🐍 Previously Built with Python & Tkinter
+## Previously Built with Python & Tkinter
 
 This project was originally built using **Python and Tkinter**.  
 Check out the original version here: **[Simple Calculator (Tkinter)](https://github.com/Moamen-Tamer/tkinter-simple-calculator)**
